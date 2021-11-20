@@ -23,30 +23,40 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- organization: ""
+  organization_url: "https://www.youtube.com/watch?v=ocT7W3o8CfE&t=1s"
+  title: "SIGGRAPH 2020 Thesis Fast Forward Runner-up"
+  url: ""
+  certificate_url: ""
+  date_start: "2020-08-01"
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
+  description: "My LifeBrush PhD thesis won an honorable mention at SIGGRAPH 2020's thesis fast forward competition. [Check it out](https://www.youtube.com/watch?v=ocT7W3o8CfE&t=1s)."
+
+- organization: "University of Calgary"
+  title: "Department Teaching Award"
+  date_start: "2010-06-06"
+  description: "I won this award for the iOS Programming Course as a TA at UofC. I developed this course together with my supervisor, Dr. Christian Jacob."
+
+- certificate_url: https://www.coursera.org/account/accomplishments/records/7ZW2BSFABX4M
+  date_start: "2015-12-21"
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: Machine Learning
+
+- organization: Alberta Innovates
+  title: "AITF - iCore Doctoral Scholarship - $32,000"
+  date_start: "2015-12-21"
+
+- organization: Apple
+  title: "WWDC Scholarships 2005, 2006, 2008-2010"
+  date_start: "2010-06-06"
+
+
+
+- organization: "University of Calgary"
+  title: "Queen Elizabeth II Doctoral Graduate Scholarships"
+  date_start: "2012-09-01"
+  date_end: "2014-09-01"
 
 design:
   columns: '2' 
