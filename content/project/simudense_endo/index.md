@@ -32,7 +32,7 @@ design:
   columns: '2'
 ---
 
-{{< video src="teaser.mp4" data-autoplay="" >}}
+{{<autovideo src="teaser.mp4">}}
 
 # Abstract
 

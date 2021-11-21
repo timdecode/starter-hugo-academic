@@ -34,7 +34,7 @@ design:
   columns: '2'
 ---
 
-{{< video src="teaser2.mp4" data-autoplay="" >}}
+{{<autovideo src="teaser.mp4">}}
 
 ShipEditor was a VR game that I developed from June 2016 to August 2017. I still work on it form time to time. In this game, you design and build space ships and stations.
 

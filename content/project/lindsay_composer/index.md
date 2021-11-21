@@ -31,7 +31,7 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
-{{< video src="teaser.mp4" data-autoplay="" >}}
+{{<autovideo src="teaser.mp4">}}
 
 Above: Afshin Esmaeili's lactose operon simulation running inside Composer.
 

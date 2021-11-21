@@ -35,8 +35,7 @@ design:
 
 ---
 
-{{< video library="true" src="teaser.webm" src="teaser.mp4"  data-muted="" data-playsinline="" data-autoplay="" >}}
-
+{{<autovideo src="teaser.mp4">}}
 
 Jump inside a living cell, on your iPad, and see how mRNA vaccines work at a molecular level. Coming soon to the iOS App Store. 
 
