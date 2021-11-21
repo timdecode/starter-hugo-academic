@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "Computers & Graphics"
 publication_short: ""
 
-abstract: "Textures composed of individual discrete elements are found in everything from human-made glass-tilings to forests and tropical coral. We propose an interactive sketch-based system for synthesizing scenes consisting of many discrete element textures. We have implemented an example-palette, a design window where a user can use our sketch-based tools to create discrete element textures and then paint those textures into a scene or back into the example-palette to create new textures. Our interactive sketch-based tools use a new and fast region-growing algorithm that iteratively synthesizes new elements around previously synthesized elements. To support discrete element textures with different scales in the same output, we parameterize our region-growing algorithm on a per-element basis. Our method is capable of synthesizing structured and stochastic example discrete element textures. We explore applications of our system for building virtual worlds (such as for video games) and for sketch-based modeling."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -51,7 +51,7 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -67,3 +67,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+{{<autovideo src="teaser.mp4">}}
+
+## Abstract
+
+Textures composed of individual discrete elements are found in everything from human-made glass-tilings to forests and tropical coral. We propose an interactive sketch-based system for synthesizing scenes consisting of many discrete element textures. We have implemented an example-palette, a design window where a user can use our sketch-based tools to create discrete element textures and then paint those textures into a scene or back into the example-palette to create new textures. Our interactive sketch-based tools use a new and fast region-growing algorithm that iteratively synthesizes new elements around previously synthesized elements. To support discrete element textures with different scales in the same output, we parameterize our region-growing algorithm on a per-element basis. Our method is capable of synthesizing structured and stochastic example discrete element textures. We explore applications of our system for building virtual worlds (such as for video games) and for sketch-based modeling.
