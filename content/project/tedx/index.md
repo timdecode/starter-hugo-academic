@@ -1,6 +1,6 @@
 ---
 title: TEDx
-summary: The Lindsay Project at TEDx 2016 in Calgary.
+summary: Red blood cell for my supervisor's TEDx talk.
 date: "2021-11-20"
 
 weight: 2
@@ -37,7 +37,7 @@ design:
 
 # Abstract
 
-In 2016 my supervisor Christian Jacob presented the Lindsay Virtual Human Project at TEDx. I built this red-blood cell cross section for his talk. What's particularly cool about this red blood cell is that it's procedurally generated, on-the fly, as the camera flies around the scene. It utilized my discrete element texture synthesis algorithm to do its magic.
+Christian Jacob, my supervisor, presented the Lindsay Virtual Human Project at TEDx in 2016. I built this red-blood cell cross section for his talk. What's particularly cool about this red blood cell is that it's procedurally generated, on-the fly, as the camera flies around the scene. It utilized my discrete element texture synthesis algorithm to do its magic. 
 
 {{< youtube AE4eKqt56vc>}}
 
