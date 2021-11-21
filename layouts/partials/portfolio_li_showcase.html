@@ -49,19 +49,27 @@
 
     </div>
     <div class="col-12 col-md-6 order-first project-showcase-video{{$order}}">
-      {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
-      {{ with $resource }}
-      {{ $image := .Resize "540x" }}
-      {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-        <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy">
-      {{if $do_link}}</a>{{end}}
-      {{end}}
-
       {{ $video := ($item.Resources.ByType "video").GetMatch "*featured*" }}
       {{ with $video }}
-      {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-        <video src="{{ $video.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy" autoplay=true muted loop="true">
-      {{if $do_link}}</a>{{end}}
+        {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+        {{ with $resource }} 
+          {{ $image := .Resize "540x" }}
+          {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
+            <video src="{{ $video.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy" autoplay loop muted playsinline poster="{{ $image.RelPermalink }}" class="project-showcase-video">
+          {{if $do_link}}</a>{{end}}
+        {{ else }}
+          {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
+            <video src="{{ $video.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy" autoplay=true muted loop="true" class="project-showcase-video">
+          {{if $do_link}}</a>{{end}}        
+        {{ end }}
+      {{ else }}
+        {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
+        {{ with $resource }}
+          {{ $image := .Resize "540x" }}
+          {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
+            <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" autoplay loop muted playsinline loading="lazy" class="project-showcase-video">
+          {{if $do_link}}</a>{{end}}
+        {{end}}
       {{end}}
     </div>
   </div>
