@@ -1,26 +1,51 @@
 ---
-# An instance of the Featured widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: portfolio
 
 # This file represents a page section.
 headless: true
 
+active: true
+
 # Order that this section appears on the page.
 weight: 21
 
-title: Recent
-subtitle: ""
+title: ''
+subtitle: ''
 
+content:
+  # Page type to display. E.g. project.
+  page_type: mesoscale
 
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
+
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+<!--   filter_button:
+  - name: All
+    tag: '*'
+  - name: Deep Learning
+    tag: Deep Learning
+  - name: Other
+    tag: Demo -->
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '3'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 5
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
 
-Jump inside a living cell, on your iPad, and see how mRNA vaccines work at a molecular level. Coming soon to the iOS App Store. 
-
-{{< youtube lYAvoW-Avj8 >}}
-
- <br />
-
-Follow our development on twitter:
-
-{{< twitter 1459706002324946946>}}

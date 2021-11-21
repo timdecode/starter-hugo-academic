@@ -1,3 +1,11 @@
+# Cloudflare
+
+Make sure you set the following environment variables in cloudflare pages:
+```
+HUGO ENABLEGITINFO: true
+HUGO_ VERSION: 0.89.4 // or whatever the current is
+```
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
