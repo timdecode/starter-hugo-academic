@@ -12,7 +12,11 @@ weight: 23
 title: Recent Publications
 subtitle: ''
 
+show_meta: true
+
 content:
+  show_meta: true
+
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
@@ -34,7 +38,9 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
+  show_meta: true
+
 ---
 
 

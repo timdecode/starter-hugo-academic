@@ -26,15 +26,24 @@
 }
 
 .media.stream-item img {
-  max-width: initial;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
 }
 
 .publication-showcase-video {
   border-radius: 10px;
-  height: 150px;
-  width: 300px;
-  object-fit: cover;
+  object-fit: fill;
+  width: 70%;
 }
 
+.li_card_featured {
+  padding-bottom: 20px;
+}
 
+.li_card_featured .publication-showcase-video{
+  
+}
 
+.project-item .publication-showcase-video {
+}
