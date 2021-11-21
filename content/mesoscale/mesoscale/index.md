@@ -33,7 +33,7 @@ design:
   columns: '2'
 ---
 
-{{< video src="teaser.mp4" data-autoplay="" >}}
+{{< video src="teaser.webm" src="teaser.mp4"  data-autoplay="" >}}
 
 
 Jump inside a living cell, on your iPad, and see how mRNA vaccines work at a molecular level. Coming soon to the iOS App Store. 
