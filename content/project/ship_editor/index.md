@@ -3,6 +3,7 @@ title: Ship Editor
 summary: Design, build and fly spacecraft in VR (bases too).
 date: "2021-11-20"
 
+weight: 1
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

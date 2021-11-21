@@ -3,6 +3,8 @@ title: TEDx
 summary: The Lindsay Project at TEDx 2016 in Calgary.
 date: "2021-11-20"
 
+weight: 2
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

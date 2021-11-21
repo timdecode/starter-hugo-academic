@@ -2,6 +2,7 @@
 title: MSc Thesis 
 summary: "The huddlge: Cooperate with a machine learning system to beat tough games."
 
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
