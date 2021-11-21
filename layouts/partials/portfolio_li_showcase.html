@@ -55,11 +55,11 @@
         {{ with $resource }} 
           {{ $image := .Resize "540x" }}
           {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-            <video src="{{ $video.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy" autoplay loop muted playsinline poster="{{ $image.RelPermalink }}" class="project-showcase-video">
+            <video src="{{ $video.RelPermalink }}" alt="{{ $item.Title }}" autoplay="true" playsinline="true" muted="true" loop="true" poster="{{ $image.RelPermalink }}" class="project-showcase-video">
           {{if $do_link}}</a>{{end}}
         {{ else }}
           {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-            <video src="{{ $video.RelPermalink }}" alt="{{ $item.Title }}" loading="lazy" autoplay=true muted loop="true" class="project-showcase-video">
+            <video src="{{ $video.RelPermalink }}" alt="{{ $item.Title }}" autoplay="true" playsinline="true" muted="true" loop="true" class="project-showcase-video">
           {{if $do_link}}</a>{{end}}        
         {{ end }}
       {{ else }}
@@ -67,7 +67,7 @@
         {{ with $resource }}
           {{ $image := .Resize "540x" }}
           {{if $do_link}}<a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{end}}
-            <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" autoplay loop muted playsinline loading="lazy" class="project-showcase-video">
+            <img src="{{ $image.RelPermalink }}" alt="{{ $item.Title }}" autoplay="true" playsinline="true" muted="true" loop="true" class="project-showcase-video">
           {{if $do_link}}</a>{{end}}
         {{end}}
       {{end}}
