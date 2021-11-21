@@ -41,9 +41,9 @@
   padding-bottom: 20px;
 }
 
-.li_card_featured .publication-showcase-video{
-  
-}
 
-.project-item .publication-showcase-video {
+@media screen and (max-width: 768px) {
+  .li_card_featured .publication-showcase-video {
+    width: 100%;
+  }
 }
