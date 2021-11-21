@@ -5,7 +5,7 @@
 
 title: Tim Davison # Website name
 baseurl: 'https://timd.ca' # Website URL
-copyright: '© {year} Me' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Timothy Davison' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
