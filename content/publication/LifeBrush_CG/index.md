@@ -13,13 +13,13 @@ publishDate: 2020-08-25T10:26:32-06:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Computers & Graphics"
 publication_short: ""
 
-abstract: "LifeBrush is a Cyberworld for painting dynamic molecular illustrations in virtual reality (VR) that then come to life as interactive simulations. We designed our system for the biological mesoscale, a spatial scale where molecules inside cells interact to form larger structures and execute the functions of cellular life. We bring our immersive illustrations to life in VR using agent-based modelling and simulation. Our sketch-based brushes use discrete element texture synthesis to generate molecular-agents along the brush path derived from examples in a palette. In this article we add a new tool to sculpt the geometry of the environment and the molecules. We also introduce a new history based visualization that enables the user to interactively explore and distil, from the busy and chaotic mesoscale environment, the interactions between molecules that drive cellular processes. We demonstrate our system with a mitochondrion example."
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -51,7 +51,7 @@ url_video: https://www.youtube.com/watch?v=i0WU_LiCxKI
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -67,3 +67,9 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+{{<autovideo src="teaser.mp4">}}
+
+## Abstract
+
+LifeBrush is a Cyberworld for painting dynamic molecular illustrations in virtual reality (VR) that then come to life as interactive simulations. We designed our system for the biological mesoscale, a spatial scale where molecules inside cells interact to form larger structures and execute the functions of cellular life. We bring our immersive illustrations to life in VR using agent-based modelling and simulation. Our sketch-based brushes use discrete element texture synthesis to generate molecular-agents along the brush path derived from examples in a palette. In this article we add a new tool to sculpt the geometry of the environment and the molecules. We also introduce a new history based visualization that enables the user to interactively explore and distil, from the busy and chaotic mesoscale environment, the interactions between molecules that drive cellular processes. We demonstrate our system with a mitochondrion example.
