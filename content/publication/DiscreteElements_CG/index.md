@@ -36,6 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+weight: 2
+
 url_pdf: publication/discreteelements_cg/2018_davison_preprint-interactive_example_palettes.pdf
 url_code: https://github.com/timdecode/InteractiveDiscreteElementPalettes
 url_dataset:

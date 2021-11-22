@@ -1,9 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+weight: 30
+
 title: "LifeBrush: Painting Interactive Agent-Based Simulations"
 authors: [Timothy Davison, Faramarz Samavati, Christian Jacob]
-date: 2020-08-25T10:39:36-06:00
+date: 2018-10-01
 doi: "https://doi.org/10.1109/CW.2018.00017"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,14 +38,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: publication/lifebrush_cw/2018_davison_lifeBrush_cyberworlds.pdf
+url_code: https://github.com/timdecode/LifeBrush
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: https://www.youtube.com/watch?v=HYLvN2qijeA
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -73,3 +75,6 @@ slides: ""
 ## Abstract
 
 Building and interacting with 3D agent-based simulations that contain a large number of agents is a significant challenge. What if we want to create an intricate new arrangement of agents, or reconfigure a large number of agents? We present LifeBrush, a cyberworld for interactively painting large and elaborate multi-agent simulations with commodity virtual reality systems that we can then simulate and explore. Our main methodology uses sketch-based discrete element texture synthesis to paint agent arrangements. We define a map to convert agents to elements in this framework when we paint and back to agents when we simulate. Like creating new colors on a paint palette, we create example agent arrangements and configurations in an example palette. We paint new agents into a scene with sketch-based generative brushes. We also use those brushes to reconfigure agents to match examples created in the palette. Then we simulate, pause the simulation and modify the agents with our sketch-based tools. This iteration loop enables new levels of interactivity for the design, simulation, and exploration of agent-based simulations.
+
+
+{{<youtube HYLvN2qijeA>}}

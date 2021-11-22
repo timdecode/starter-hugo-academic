@@ -1,9 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
+weight: 1
+
 title: "Lifebrush: painting, simulating, and visualizing dense biomolecular environments"
 authors: [Timothy Davison, Faramarz Samavati, Christian Jacob]
-date: 2019-08-01
+date: 2019-05-21
 doi: "https://doi.org/10.1016/j.cag.2019.05.006"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,8 +38,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: publication/lifebrush_cg/2019_davison_lifeBrush_journal.pdf
+url_code: https://github.com/timdecode/LifeBrush
 url_dataset:
 url_poster:
 url_project:
