@@ -48,7 +48,7 @@ social:
 highlight_name: true
 ---
 
-I'm a computer scientist bringing the world of molecular biology to life. I build technologies to immersive users in biological worlds. I'm an expert in computer graphics, agent-based modelling, virtual reality and game engine architecture. My PhD at the University of Calgary (2019) was about painting living 3D biomolecule landscapes in virtual reality. 
+I'm a computer scientist bringing the world of molecular biology to life. I'm an expert in computer graphics, agent-based modelling, virtual reality and game engine architecture. My Ph.D. at the University of Calgary (2019) was about painting living 3D biomolecule landscapes in virtual reality. 
 
 I take pictures, brew beer, play computer games, and hike. 
 
