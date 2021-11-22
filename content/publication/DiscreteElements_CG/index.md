@@ -3,7 +3,7 @@
 
 title: "Interactive example-palettes for discrete element texture synthesis"
 authors: [Timothy Davison, Faramarz Samavati, Christian Jacob]
-date: 2019-02-01
+date: 2018-11-09
 doi: "https://doi.org/10.1016/j.cag.2018.10.016"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,14 +36,14 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: publication/discreteelements_cg/2018_davison_preprint-interactive_example_palettes.pdf
+url_code: https://github.com/timdecode/InteractiveDiscreteElementPalettes
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
-url_video:
+url_source: 
+url_video: https://youtu.be/zkfRPuBbVNw
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -70,10 +70,10 @@ slides: ""
 
 {{<autovideo src="teaser.mp4">}}
 
-
 ## Abstract
 
 Textures composed of individual discrete elements are found in everything from human-made glass-tilings to forests and tropical coral. We propose an interactive sketch-based system for synthesizing scenes consisting of many discrete element textures. We have implemented an example-palette, a design window where a user can use our sketch-based tools to create discrete element textures and then paint those textures into a scene or back into the example-palette to create new textures. Our interactive sketch-based tools use a new and fast region-growing algorithm that iteratively synthesizes new elements around previously synthesized elements. To support discrete element textures with different scales in the same output, we parameterize our region-growing algorithm on a per-element basis. Our method is capable of synthesizing structured and stochastic example discrete element textures. We explore applications of our system for building virtual worlds (such as for video games) and for sketch-based modeling.
+
 
 {{< figure src="images/chapter_rg_teaser.png" caption="System overview: The user creates example arrangments in a palette. Then, the user selects an example arrangment and paints it into the scene. The brushes synthesize element arrangments that are similar to the exemplar." >}}
 
@@ -85,6 +85,11 @@ A typical editing session takes place within the Unreal Editor. In the video bel
 
 {{< videofigure src="coral_bunny_editing_small.mp4" controls="yes" caption="A typical editing session." >}}	
 
+
+### Youtube
 {{<youtube zkfRPuBbVNw>}}
+
+### Gallery
+{{<gallery album="projects/paper_det">}}
 
 
