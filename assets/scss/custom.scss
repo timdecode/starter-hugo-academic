@@ -41,6 +41,24 @@
   padding-bottom: 20px;
 }
 
+// Override figure:
+// - video margin-bottom to 0px
+// - left align text
+figure {
+  video {
+    height: auto;
+  }
+
+  figcaption {
+    text-align: left; // Center figure captions.
+  }
+}
+
+.article-style figure video {
+  margin-top: 0px;
+  margin-bottom: 0px;  
+}
+
 
 @media screen and (max-width: 768px) {
   .li_card_featured .publication-showcase-video {
