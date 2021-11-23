@@ -24,10 +24,6 @@ bio: Computer scientist bringing the world of biology to life.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/timothy-davison-phd-88086a85/
-
 - icon: envelope
   icon_pack: fas
   link: "mailto:timtimmy@gmail.com"  # For a direct email link, use "mailto:timtimmy@gmail.com".
@@ -50,5 +46,5 @@ highlight_name: true
 
 I'm a computer scientist bringing the world of molecular biology to life. I'm an expert in computer graphics, agent-based modelling, virtual reality and game engine architecture. My Ph.D. at the University of Calgary (2019) was about painting living 3D biomolecule landscapes in virtual reality. 
 
-I take pictures, brew beer, play computer games, and hike. 
+I take photos, brew beer, play computer games, and hike. 
 
