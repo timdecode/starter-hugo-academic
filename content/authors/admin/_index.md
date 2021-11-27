@@ -24,12 +24,12 @@ bio: Computer scientist bringing the world of biology to life.
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:timtimmy@gmail.com"  # For a direct email link, use "mailto:timtimmy@gmail.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/timd_ca
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:timtimmy@gmail.com"  # For a direct email link, use "mailto:timtimmy@gmail.com".
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/user/11011001
