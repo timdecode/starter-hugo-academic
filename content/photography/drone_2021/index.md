@@ -1,5 +1,5 @@
 ---
-title: Drone Photography 
+title: Photography 
 summary: 
 date: 2021-11-27
 
@@ -33,7 +33,5 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
-
-These days I am into drone photography. I like that I can create the perfect composition. It also enables new persepectives that aren't possible with my DSLR. The world is different from up here.
 
 {{<gallery album="photography/drone_2021">}}
