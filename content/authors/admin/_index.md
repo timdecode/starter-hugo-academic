@@ -44,7 +44,7 @@ social:
 highlight_name: true
 ---
 
-I'm a computer scientist bringing the world of molecular biology to life. I'm an expert in computer graphics, agent-based modelling, virtual reality and game engine architecture. My [Ph.D.](https://prism.ucalgary.ca/bitstream/handle/1880/111493/ucalgary_2020_davison_timothy.pdf?sequence=2&isAllowed=y) at the University of Calgary (2019) was about painting living 3D biomolecule landscapes in virtual reality ([see this youtube video](https://www.youtube.com/watch?v=ocT7W3o8CfE)). 
+I'm a computer scientist bringing the world of molecular biology to life. I'm an expert in computer graphics, agent-based modelling, virtual reality and game engine architecture. My [PhD (2020)](https://prism.ucalgary.ca/bitstream/handle/1880/111493/ucalgary_2020_davison_timothy.pdf?sequence=2&isAllowed=y) at the University of Calgary was about painting living 3D biomolecule landscapes in virtual reality ([see this youtube video](https://www.youtube.com/watch?v=ocT7W3o8CfE)). 
 
 I take [photos](photography/drone_2021), brew beer, play computer games, and hike. 
 
