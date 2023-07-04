@@ -29,15 +29,13 @@ date_format: Jan 2006
 #    date_end: '2017-01-01'
 
 experience:
-  - title: "Co-founder and developer: Science EdTech Startup"
-    company: 'Undisclosed'
-    company_url: "https://twitter.com/timd_ca"
+  - title: "Co-founder: Science EdTech Startup"
+    # company: 'Undisclosed'
+    # company_url: "https://twitter.com/timd_ca"
     date_start: '2020-01-01'
     description: |2-
-        We are building an active-learning digital education platform for the life sciences; immerse, interact and explore. Find [more information here]({{< ref "/mesoscale/mesoscale/index.md" >}}) and follow our progress on [Twitter](https://twitter.com/timd_ca). 
+        We are building an active-learning digital education platform for the life sciences; immerse, interact and explore. Find [more information here](/mesoscale/mesoscale) and follow our progress on [Twitter](https://twitter.com/timd_ca). 
 
-
-experience:
   - title: "Developer: ShipCraft"
     company: 'Indie Game Development'
     date_start: '2016-01-01'
