@@ -43,8 +43,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2017-01-01'
     description: |2-
-
-    Embark on an interstellar journey with "ShipCraft" a riveting VR game where you engineer intricate spacecraft. You'll wield cutting-edge CAD tools in virtual reality, crafting spaceships right down to the engine's fuel flow rates.
+        Embark on an interstellar journey with "ShipCraft" a riveting VR game where you engineer intricate spacecraft. You'll wield cutting-edge CAD tools in virtual reality, crafting spaceships right down to the engine's fuel flow rates.
 
 Each challenge pits you against the merciless void of space. Can you mend a malfunctioning ship hurtling toward a gas giant?
 
