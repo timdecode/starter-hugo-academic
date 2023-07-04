@@ -25,11 +25,13 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: "Co-founder and developer: Undisclosed Science EdTech Startup"
 #    company: 'Undisclosed'
-    date_start: '2020-01-01'
 #    date_end: '2017-01-01'
+
+experience:
+  - title: "Co-founder and developer: Science EdTech Startup"
+    company: 'Undisclosed'
+    date_start: '2020-01-01'
     description: |2-
 
     We are building an active-learning digital education platform for the life sciences; immerse, interact and explore. Find [more information here]({{< ref "/mesoscale/mesoscale/index.md" >}}) and follow our progress on [Twitter](https://twitter.com/timd_ca). 
