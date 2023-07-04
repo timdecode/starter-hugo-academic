@@ -45,9 +45,9 @@ experience:
     description: |2-
         Embark on an interstellar journey with "ShipCraft" a riveting VR game where you engineer intricate spacecraft. You'll wield cutting-edge CAD tools in virtual reality, crafting spaceships right down to the engine's fuel flow rates.
 
-Each challenge pits you against the merciless void of space. Can you mend a malfunctioning ship hurtling toward a gas giant?
+        Each challenge pits you against the merciless void of space. Can you mend a malfunctioning ship hurtling toward a gas giant?
 
-I put this project on hold to finish my PhD. Its innovative simulation and VR crafting technology lay the groundwork for my LifeBrush system. 
+        I put this project on hold to finish my PhD. Its innovative simulation and VR crafting technology lay the groundwork for my LifeBrush system. 
 
   - title: "Developer and Co-founder: SimuDenseEndo"
     company: "SimuDenseEndo"
