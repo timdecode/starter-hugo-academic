@@ -17,7 +17,7 @@ links:
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
-#  url: https://twitter.com/georgecushen
+#  url: 
 url_code: ""
 url_pdf: ""
 url_video: ""
@@ -37,7 +37,7 @@ design:
 
 {{<autovideo src="teaser.mp4">}}
 
-Jump inside a living cell, on your iPad, and see how mRNA vaccines work at a molecular level. Coming soon to the iOS App Store. 
+Coming soon to the Apple App Store.
 
 {{< youtube lYAvoW-Avj8 >}}
 
@@ -45,9 +45,7 @@ Jump inside a living cell, on your iPad, and see how mRNA vaccines work at a mol
 
 Follow our development on twitter:
 
-{{< twitter 1459706002324946946>}}
-
-![](ribosome.png)
+{{< twitter 1592948101144547328>}}
 
 
  <!--  background:
