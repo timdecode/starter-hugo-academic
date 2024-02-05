@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 23
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 show_meta: true

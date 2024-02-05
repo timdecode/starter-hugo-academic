@@ -44,7 +44,4 @@ social:
 highlight_name: true
 ---
 
-I'm a computer scientist bringing the world of molecular biology to life on iPhones and iPads. I specialize in computer graphics, spatial computing and simulations. I'm bootstrapping a startup for biology education (it's amazing). My [PhD 2020](https://www.youtube.com/watch?v=ocT7W3o8CfE) was about painting interactive mesoscale biology landscapes in VR. 
-
-I take [photos](photography/drone_2021), play computer games, and hike. 
-
+I am building [CellWalk](https://cellwalk.ca), a platform for immersive biology education on Apple Vision Pro (iPhone and iPad coming soon). I'm a graphics programmer [PhD](https://www.youtube.com/watch?v=ocT7W3o8CfE) with a background in realtime simulation and artificial intelligence. I like hiking and [photography](photography/drone_2021).
