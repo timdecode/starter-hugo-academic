@@ -27,6 +27,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/timd_ca
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/did:plc:dynyfqlcwvxokjiu5tgzni2g
 - icon: envelope
   icon_pack: fas
   link: "mailto:timtimmy@gmail.com"  # For a direct email link, use "mailto:timtimmy@gmail.com".
