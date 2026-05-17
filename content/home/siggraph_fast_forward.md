@@ -8,7 +8,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 21
+weight: 23
 
 title: "SIGGRAPH 2020 Thesis fast forward"
 subtitle: ""

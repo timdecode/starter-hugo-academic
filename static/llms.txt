@@ -1,0 +1,39 @@
+# Timothy Davison
+
+> Timothy Davison (Tim) is a computer graphics PhD and the CEO and Cofounder of Ako Biotica Inc. His mission is to inspire the next generation of scientists. He is the creator of CellWalk, an immersive biology education app for Apple Vision Pro that lets users explore a 3D bacterial cell from its whole-cell scale down to its atoms. CellWalk was named an Apple Design Awards 2025 Finalist (Visuals and Graphics) and was featured by the Apple Newsroom for its use of the Foundation Models framework.
+
+## About
+
+- [Homepage](https://timd.ca/): About, work, projects, publications, and contact.
+- Role: CEO and Cofounder, Ako Biotica Inc.
+- Background: PhD in Computer Science (University of Calgary), graphics programmer, realtime simulation and agent-based modelling.
+
+## CellWalk
+
+CellWalk is an immersive biology education platform for Apple Vision Pro (iPhone and iPad coming soon). Users can take guided molecular tours through a bacterial cell or explore on their own, zooming continuously from the whole-cell scale down to atoms. CellWalk was created by Timothy Davison, HK, David Goodsell, and Ludovic Autin; the underlying cell model is by Martina Maritan et al. (2022).
+
+- [CellWalk website](https://cellwalk.ca/)
+- [CellWalk on the App Store (Apple Vision Pro)](https://apps.apple.com/us/app/cellwalk/id1627776848)
+
+## Recognition and press
+
+- [Apple Newsroom: Foundation Models framework feature (Sept 2025)](https://www.apple.com/ca/newsroom/2025/09/apples-foundation-models-framework-unlocks-new-intelligent-app-experiences/) — CellWalk is profiled as an education app that uses Apple's on-device Foundation Models framework to generate adaptive, grounded conversational explanations of molecular biology for each learner.
+- Apple Design Awards 2025 Finalist — Visuals and Graphics (CellWalk).
+- [What the Tech? Podcast, University of Calgary (March 2026)](https://open.spotify.com/episode/3zAul4gZfHDNcI1qmKbjzx) — interview about Tim's path into computer science and biology, spatial computing, realtime simulation, and the story behind CellWalk.
+
+## Research
+
+Tim's PhD thesis, LifeBrush, is about painting 3D molecular landscapes in interactive virtual reality and bringing them to life with realtime coarse-grained agent-based simulation. The thesis received an honorable mention at the SIGGRAPH 2020 Thesis Fast Forward.
+
+- [LifeBrush PhD thesis](https://prism.ucalgary.ca/handle/1880/111493)
+- [LifeBrush: painting, simulating, and visualizing dense biomolecular environments — Computers & Graphics, 2019](https://timd.ca/publication/lifebrush_cg/)
+- [Interactive example-palettes for discrete element texture synthesis — Computers & Graphics, 2018](https://timd.ca/publication/discreteelements_cg/)
+- [LifeBrush: Painting Interactive Agent-Based Simulations — Cyberworlds, 2018](https://timd.ca/publication/lifebrush_cw/)
+
+## Contact
+
+- [Email](mailto:timtimmy@gmail.com)
+- [X / Twitter](https://twitter.com/timd_ca)
+- [BlueSky](https://bsky.app/profile/did:plc:dynyfqlcwvxokjiu5tgzni2g)
+- [GitHub](https://github.com/timdecode)
+- [YouTube](https://www.youtube.com/user/11011001)

@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 27
+weight: 28
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Accomplish&shy;ments'
@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- organization: "Apple"
+  organization_url: "https://developer.apple.com/design/awards/"
+  title: "Apple Design Awards 2025 Finalist — Visuals and Graphics"
+  url: ""
+  certificate_url: ""
+  date_start: "2025-06-01"
+  date_end: ""
+  description: "CellWalk was named a finalist for the Apple Design Awards 2025 in the Visuals and Graphics category."
+
 - organization: ""
   organization_url: "https://www.youtube.com/watch?v=ocT7W3o8CfE&t=1s"
   title: "SIGGRAPH 2020 Thesis Fast Forward Runner-up"

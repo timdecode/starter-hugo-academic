@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 24
+weight: 25
 
 title: 'Photos'
 subtitle: ''

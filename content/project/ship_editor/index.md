@@ -36,19 +36,16 @@ design:
 
 {{<autovideo src="teaser.mp4">}}
 
-ShipEditor was a VR game that I developed from June 2016 to August 2017. I still work on it form time to time. In this game, you design and build space ships and stations.
+ShipEditor (2016–2017) was a VR game for designing, building, and flying spacecraft and bases. You engineer your ships down to the fuel flow rates of each thruster, then take them out into the void.
 
-Features: 
+Features:
 
-Accurate (only analytical solutions here) orbital mechanics
-6-DOF controls–why use clunky fighter joysticks when VR gives you full 6-DOF control over the thrusters
-- Thruster simulator–place thrusters on the ship, they consume fuel, the size of the thruster matters. The flight control computer (linear programming solver) computes the exact throttle for each thruster to match the control input. It's what the real space ships do.
-- CAD: I wrote a mini VR powered CAD program to design the ship frames, place components etc
-- Base construct
-- Voxel editing
-- Too many things
-- Maybe the first ever graph-entity component system (my GitHub repo)
-
+- Accurate (analytical-only) orbital mechanics
+- 6-DOF thruster controls — VR gives full six-degree-of-freedom control, so no clunky fighter joysticks
+- Thruster simulator: place thrusters anywhere on the ship; each consumes fuel based on its size, and a flight control computer (linear-programming solver) computes the exact throttle for each one to match the pilot's input — the way real spacecraft do it
+- A mini VR-powered CAD program for designing ship frames and placing components
+- Base construction and voxel editing
+- Possibly the first-ever graph-entity component system
 
 {{< youtube AHtzHkzhVGY >}}
 

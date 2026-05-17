@@ -18,7 +18,7 @@ Take a guided tour through the molecular machines of a bacteria cell or explore 
 
 [Download for Apple Vision Pro](https://apps.apple.com/us/app/cellwalk/id1627776848) – [CellWalk.ca](https://cellwalk.ca) – [Follow me on X.](https://x.com/timd_ca)
 
-Created by Timothy Davison, HK, [David Goodsell](https://x.com/dsgoodsell), and [Ludovic Autin](https://x.com/grince). The cell model was created by [Martina Maritan](https://x.com/MartinaMaritan) et al. ([2022](https://doi.org/10.1016/j.jmb.2021.167351)). Many incredible and anonymous people helped out.
+Created by Timothy Davison, HK, [David Goodsell](https://x.com/dsgoodsell), and [Ludovic Autin](https://x.com/ludovic_autin). The cell model was created by [Martina Maritan](https://x.com/MartinaMaritan) et al. ([2022](https://doi.org/10.1016/j.jmb.2021.167351)). Many incredible and anonymous people helped out.
 
 
 {{< youtube r8DOAPPjMw0>}}

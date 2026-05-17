@@ -10,7 +10,7 @@ active: true
 headless: false
 
 # Order that this section appears on the page.
-weight: 25
+weight: 26
 
 title: Education
 

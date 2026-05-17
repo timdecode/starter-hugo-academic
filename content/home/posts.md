@@ -6,12 +6,12 @@ widget: pages
 # This file represents a page section.
 headless: true
 
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 21
 
-title: Recent Posts
+title: News
 subtitle:
 
 content:
@@ -31,7 +31,7 @@ content:
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  order: asc
 
 design:
   # Choose a view for the listings:

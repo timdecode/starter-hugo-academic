@@ -9,7 +9,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 22
+weight: 23
 
 title: 'Projects'
 subtitle: ''

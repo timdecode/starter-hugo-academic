@@ -6,15 +6,15 @@ title: Timothy Davison
 superuser: true
 
 # Role/position/tagline
-role: PhD
+role: CEO and Cofounder, Ako Biotica Inc.
 
 # Organizations/Affiliations to show in About widget
 #organizations:
-#- name: Atlas Biotica
-#  url: https://atlasbiotica.ca
+#- name: Ako Biotica Inc.
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computer scientist bringing the world of biology to life. 
+bio: On a mission to inspire the next generation of scientists.
 
 
 
