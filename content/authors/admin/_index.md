@@ -47,4 +47,4 @@ social:
 highlight_name: true
 ---
 
-I am building [CellWalk](https://cellwalk.ca), a platform for immersive biology education on Apple Vision Pro (iPhone and iPad coming soon). I'm a graphics programmer [PhD](https://www.youtube.com/watch?v=ocT7W3o8CfE) with a background in realtime simulation and artificial intelligence. I like hiking and [photography](photography/drone_2021).
+I cofounded Ako Biotica Inc., the maker of [CellWalk](https://cellwalk.ca), with the mission to inspire the next generation of scientists. I have a [PhD](https://www.youtube.com/watch?v=ocT7W3o8CfE) in computer graphics and a background in realtime simulation and AI. I like hiking and [photography](photography/drone_2021).
