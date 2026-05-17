@@ -29,12 +29,19 @@ date_format: Jan 2006
 #    date_end: '2017-01-01'
 
 experience:
-  - title: "Co-founder: Science EdTech Startup"
-    # company: 'Undisclosed'
-    # company_url: "https://twitter.com/timd_ca"
-    date_start: '2020-01-01'
+  - title: "CEO and Cofounder"
+    company: "Ako Biotica Inc."
+    date_start: '2025-06-01'
     description: |2-
-        We are building an active-learning digital education platform for the life sciences; immerse, interact and explore. Find [more information here](/mesoscale/mesoscale) and follow our progress on [Twitter](https://twitter.com/timd_ca). 
+        Ako Biotica is the maker of [CellWalk](https://cellwalk.ca). We're building the future of biology education — our mission is to inspire the next generation of scientists.
+
+  - title: "Independent Developer"
+    company: "CellWalk"
+    company_url: "https://cellwalk.ca"
+    date_start: '2020-01-01'
+    date_end: '2025-07-01'
+    description: |2-
+        Designed and built [CellWalk](https://cellwalk.ca), an immersive biology education app for Apple Vision Pro, iPad, and iPhone, before forming Ako Biotica.
 
   - title: "Developer: ShipCraft"
     company: 'Indie Game Development'
