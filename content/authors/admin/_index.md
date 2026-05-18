@@ -32,10 +32,10 @@ social:
   link: https://bsky.app/profile/did:plc:dynyfqlcwvxokjiu5tgzni2g
 - icon: envelope
   icon_pack: fas
-  link: "mailto:timtimmy@gmail.com"  # For a direct email link, use "mailto:timtimmy@gmail.com".
+  link: "mailto:tim@akobiotica.com"  # For a direct email link, use "mailto:tim@akobiotica.com".
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/user/11011001
+  link: https://www.youtube.com/@TimothyDavison
 - icon: github
   icon_pack: fab
   link: https://github.com/timdecode
