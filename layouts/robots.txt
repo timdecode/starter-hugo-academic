@@ -1,0 +1,90 @@
+# timd.ca — open for indexing, AI grounding, and AI training.
+# Structured summary for LLMs: https://timd.ca/llms.txt
+
+User-agent: *
+Allow: /
+# Cloudflare Content-Signals: explicit opt-in.
+#   search   = indexed by search engines and shown with excerpts
+#   ai-input = used as real-time grounding/RAG input by AI assistants
+#   ai-train = used as training/fine-tuning data for AI models
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+# --- OpenAI ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# --- Anthropic ---
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# --- Google ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+# --- Apple ---
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# --- Microsoft / Bing ---
+User-agent: Bingbot
+Allow: /
+
+# --- Perplexity ---
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+# --- Meta ---
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+# --- Common Crawl (corpus used by many model trainers) ---
+User-agent: CCBot
+Allow: /
+
+# --- Others ---
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}
